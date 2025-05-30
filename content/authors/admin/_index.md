@@ -36,10 +36,10 @@ profiles:
     url: https://www.linkedin.com/in/lee-junhyeong-784133248/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S Mechanical Engineering 
+    institution: Korea Advanced Institute Science and Technol
+    date_start: 2020-03
+    date_end: 2022-02
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
